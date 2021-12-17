@@ -1,7 +1,7 @@
 {
-  "name": "youtubechaptersscraper",
+  "name": "chapter-dl",
   "version": "1.0.0",
-  "description": "for turning youtube chapters into podcast chapters",
+  "description": "for turning video chapters into podcast chapters",
   "main": "app.js",
   "dependencies": {
     "dayjs": "^1.10.7",
